@@ -16,7 +16,7 @@ public class UserArray {
             num[j]=sc.nextInt();
         }
 
-        System.out.println("Array index value of 10: "+num[10]);
+        //System.out.println("Array index value of 10: "+num[10]);
 
     }
 
